@@ -2,8 +2,14 @@
   "Group": "Karlo",
   "Name": "NotEnoughRats",
   "Version": "0.0.1",
-  "Description": "",
-  "Authors": [],
+  "Description": "Adds new colors of rat.",
+  "Authors": [
+    {
+      "Name": "Karlo",
+      "Email": "",
+      "Url": ""
+    }
+  ],
   "Website": "",
   "Dependencies": {},
   "OptionalDependencies": {},
