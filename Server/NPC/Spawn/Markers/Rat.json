@@ -1,0 +1,19 @@
+{
+  "Model": "NPC_Spawn_Marker",
+  "NPCs": [
+    {
+      "Name": "Rat",
+      "Weight": 50,
+      "SpawnAfterGameTime": "P1D",
+      "Flock": "Group_Tiny"
+    },
+    {
+      "Name": "Rat_White",
+      "Weight": 50,
+      "SpawnAfterGameTime": "P1D",
+      "Flock": "Group_Tiny"
+    }
+  ],
+  "ExclusionRadius": 10,
+  "MaxDropHeight": 4
+}
