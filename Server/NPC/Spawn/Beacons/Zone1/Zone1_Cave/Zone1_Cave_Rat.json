@@ -23,8 +23,12 @@
       "Id": "Rat"
     },
     {
-      "Weight": 50,
+      "Weight": 25,
       "Id": "Rat_White"
+    },
+    {
+      "Weight": 25,
+      "Id": "Rat_Brown"
     }
   ],
   "LightRanges": {

@@ -9,7 +9,13 @@
     },
     {
       "Name": "Rat_White",
-      "Weight": 50,
+      "Weight": 25,
+      "SpawnAfterGameTime": "P1D",
+      "Flock": "Group_Tiny"
+    },
+    {
+      "Name": "Rat_Brown",
+      "Weight": 25,
       "SpawnAfterGameTime": "P1D",
       "Flock": "Group_Tiny"
     }

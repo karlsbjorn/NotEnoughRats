@@ -27,8 +27,12 @@
       "Id": "Rat"
     },
     {
-      "Weight": 35,
+      "Weight": 18,
       "Id": "Rat_White"
+    },
+    {
+      "Weight": 17,
+      "Id": "Rat_Brown"
     },
     {
       "Weight": 20,
