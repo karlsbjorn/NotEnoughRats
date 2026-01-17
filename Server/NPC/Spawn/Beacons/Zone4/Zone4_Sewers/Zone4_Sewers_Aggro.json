@@ -1,0 +1,28 @@
+{
+  "NPCs": [
+    {
+      "Weight": 25,
+      "Id": "Rat"
+    },
+    {
+      "Weight": 12,
+      "Id": "Rat_White"
+    },
+    {
+      "Weight": 13,
+      "Id": "Rat_Brown"
+    },
+    {
+      "Weight": 35,
+      "Id": "Zombie"
+    },
+    {
+      "Weight": 5,
+      "Id": "Skeleton_Burnt_Soldier"
+    },
+    {
+      "Weight": 10,
+      "Id": "Skeleton_Burnt_Alchemist"
+    }
+  ]
+}
