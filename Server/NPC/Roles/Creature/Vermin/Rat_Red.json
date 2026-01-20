@@ -5,7 +5,7 @@
     "DropList": "Drop_Rat",
     "Appearance": "Rat_Red",
     "AttitudeGroup": "Vermin",
-    "MaxHealth": 21,
+    "MaxHealth": 61,
     "MaxSpeed": 8,
     "WanderRadius": 20,
     "ViewRange": 8,
@@ -33,6 +33,9 @@
     "IsMemory": true,
     "MemoriesCategory": "Critter",
     "MemoriesNameOverride": "Rat",
+    "_CombatConfig": {
+      "EntityEffect": "Immunity_Fire"
+    },
     "_InteractionVars": {
       "Melee_Start": {
         "Interactions": [
@@ -54,7 +57,7 @@
             "DamageCalculator": {
               "Type": "Absolute",
               "BaseDamage": {
-                "Physical": 9
+                "Physical": 18
               },
               "RandomPercentageModifier": 0.1
             },
