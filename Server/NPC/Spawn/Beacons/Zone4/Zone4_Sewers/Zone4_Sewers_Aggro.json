@@ -42,5 +42,11 @@
       "Weight": 10,
       "Id": "Skeleton_Burnt_Alchemist"
     }
-  ]
+  ],
+  "LightRanges": {
+    "Light": [
+      0,
+      7
+    ]
+  }
 }

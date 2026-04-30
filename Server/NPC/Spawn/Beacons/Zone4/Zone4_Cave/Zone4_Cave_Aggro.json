@@ -38,5 +38,11 @@
       "Weight": 15,
       "Id": "Hound_Bleached"
     }
-  ]
+  ],
+  "LightRanges": {
+    "Light": [
+      0,
+      2
+    ]
+  }
 }
